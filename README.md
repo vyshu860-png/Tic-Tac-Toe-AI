@@ -7,7 +7,7 @@ Tic-Tac-Toe AI is an interactive web-based game developed using **Python** and *
 The AI uses the **Minimax algorithm** to analyze possible moves and choose the best available move.
 
 This project demonstrates basic concepts of **Artificial Intelligence, game logic, decision making, recursion, and web application development using Streamlit**.
-
+live demo:https://tic-tac-toe-ai-zr4zuhjgizzhwtv5h4gx26.streamlit.app/
 ---
 
 ## 🎯 Project Objective
